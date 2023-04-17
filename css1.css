@@ -1,0 +1,33 @@
+h2{
+    color: brown;
+    font-style: italic;
+}
+.cut{
+    text-decoration: line-through;
+}
+.bg{
+    background-color: yellow;
+}
+.underline1{
+    text-decoration: underline;
+    font-style: italic;
+}
+h1{
+    color: red;
+    border: 15px plane;
+    margin: 10px;
+}
+h3{
+    font-style: italic;
+    color: brown;
+    bold;
+}
+p{
+    color: brown;
+}
+ul{
+    text-decoration:;
+    bold;
+    letter-spacing:7px;
+   
+}
